@@ -1,8 +1,9 @@
-wechaty==0.8.17
-wechaty-puppet-service==0.8.1
+wechaty==0.8.16
+wechaty-puppet-service>=0.8.4 # 或直接指定 0.8.4、0.8.5 等
 pyee==8.2.2
 flask
 flask-cors
 sqlalchemy
 requests
+openai
 itchat-uos==1.5.0.dev0
