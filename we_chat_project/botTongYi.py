@@ -86,7 +86,7 @@ def get_qwen_response(message, user_id):
         # response.raise_for_status()
         # reply = response.json()['choices'][0]['message']['content']
         messages=[
-            {'role': 'system', 'content': '你是一个友好的助手，请用简短的语言回答问题，回复后面都加一个“喵”每次回复不要超过50个字。'},
+            {'role': 'system', 'content': '你是一个友好的助手，请用简短的语言回答问题，每次回复不要超过50个字。'},
             *chat_contexts[user_id]
         ]
 
