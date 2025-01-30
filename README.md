@@ -1,9 +1,10 @@
 # deepseek_project
-### Installation
-```bash
-# 第一步：安装依赖
-# Step 1: Install dependencies
+# Installation
+
+## 第一步：安装依赖
+```shell
 pip install -r requirements.txt
+```
 
 ▎WeChat Assistant Project
 
@@ -30,7 +31,6 @@ project: Document_upload_assistant
 为解决DeepSeek平台未开放文件上传API的技术限制，开发的本地化文件处理解决方案。
 Background: Localized file processing solution addressing DeepSeek's lack of file upload API.
 
-
 ▎Deepseek_r1_deploy
 
 project: deepseek_r1_deploy
@@ -38,4 +38,14 @@ project: deepseek_r1_deploy
 项目描述:快速使用魔搭社区部署deepseek蒸馏模型，服务器本地都可以运行，包含前端界面
 Quickly deploy Deepseek distillation model using the Magic Community, which can run locally on the server and includes a front-end interface
 
+## 第二步：获取API Key
 
+登陆[DeepSeek开放平台](https://platform.deepseek.com/)创建API Key，将API Key粘贴到bot.py下第24行。
+
+![](img/get_api_key.png)
+
+![](img/paste_api_key.png)
+
+## 第三步：运行bot.py
+
+运行bot.py，扫描命令行中的二维码登陆微信账号，等待弹出控制面板。

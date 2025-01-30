@@ -124,7 +124,7 @@ def get_messages():
     """获取所有聊天记录"""
     # 添加跨域访问头
     session = Session()
-    messages = session.query(ChatMessage).order_by(ChatMessage.created_at.desc()).all()
+    messages = session.query(ChatMessage).order_by(ChatMessage.created_at.asc()).all()
     result = [{
         'id': msg.id,
         'sender_name': msg.sender_name,
