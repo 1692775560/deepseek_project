@@ -1,0 +1,17 @@
+{
+  "LLM_API": {
+    "base_url": "https://api.deepseek.com/v1/chat/completions",
+    "api_key": "填入你的API_KEY",
+    "model": "deepseek-chat",
+    "system_prompt": "你是一个友好的助手，请用简短的语言回答问题，每次回复不要超过50个字。"
+  },
+  "CHAT_CONFIG": {
+    "max_context_window": 5
+  },
+  "FLASK_CONFIG": {
+    "SECRET_KEY": "your-secret-key-here",
+    "TEMPLATES_AUTO_RELOAD": true,
+    "HOST": "127.0.0.1",
+    "PORT": 5000
+  }
+}
