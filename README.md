@@ -1,7 +1,7 @@
 ```markdown
 # DeepSeek Project
 
-![Star History Chart](https://api.star-history.com/svg?repos=1692775560/deepseek_project&type=Timeline)
+![Star History Chart](https://star-history.dera.page/svg?repos=1692775560/deepseek_project&type=Timeline)
 
 ## 安装指南
 
@@ -66,6 +66,6 @@ This project is a plugin that provides web search capabilities for locally deplo
 
 ## 项目演进
 
-[![Star History Chart](https://api.star-history.com/svg?repos=1692775560/deepseek_project&type=Timeline)](https://star-history.com/#1692775560/deepseek_project&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=1692775560/deepseek_project&type=Timeline)](https://star-history.dera.page/#1692775560/deepseek_project&Timeline)
 
 ```
