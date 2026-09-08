@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🤖 DeepSeek Project
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:4D6BFE&height=220&section=header&text=DeepSeek%20Project&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%E5%BE%AE%E4%BF%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%20%C2%B7%20%E6%96%87%E6%A1%A3%E4%B8%8A%E4%BC%A0%20%C2%B7%20R1%20%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%20%C2%B7%20%E8%81%94%E7%BD%91%E6%90%9C%E7%B4%A2%E6%8F%92%E4%BB%B6&descAlignY=60&descSize=18&animation=fadeIn" alt="DeepSeek Project" width="100%"/>
 
-**一站式 DeepSeek 实战项目合集：微信机器人 · 文档上传 · R1 本地部署 · 联网搜索插件**
-
-*A collection of hands-on DeepSeek projects: WeChat bot, document upload, R1 local deployment & web search plugin.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4D6BFE&center=true&vCenter=true&width=700&lines=%E4%B8%80%E7%AB%99%E5%BC%8F+DeepSeek+%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E5%90%88%E9%9B%86+%F0%9F%9A%80;A+collection+of+hands-on+DeepSeek+projects;%E8%AE%A9%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9E%E4%B8%8A%E4%BA%92%E8%81%94%E7%BD%91+%F0%9F%8C%90" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://github.com/1692775560/deepseek_project/stargazers"><img src="https://img.shields.io/github/stars/1692775560/deepseek_project?style=for-the-badge&logo=github&color=1f6feb" alt="Stars"></a>
@@ -129,10 +127,24 @@ pip install -r requirements.txt
 
 欢迎提交 Issue 和 Pull Request！如果这个项目对你有帮助，请点一个 ⭐ Star 支持一下～
 
+感谢所有贡献者：
+
+<div align="center">
+
+<a href="https://github.com/1692775560/deepseek_project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=1692775560/deepseek_project" alt="Contributors"/>
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 **如果对你有帮助，欢迎 Star ⭐ / Fork 🍴 / Watch 👀**
 
 Made with ❤️ by [1692775560](https://github.com/1692775560)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D6BFE,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
